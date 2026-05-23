@@ -1,0 +1,12 @@
+
+{
+  "name": "BomBarDirBOT",
+  "version": "3.0",
+  "authors": [ "Ikhrom", "Yoel", "Dimas"],
+  "description": "Greedy by Maximum Score adalah strategi bot yang pada setiap tick selalu memilih dan menyerang musuh dengan skor prioritas tertinggi berdasarkan kombinasi jarak, energi musuh, akurasi gun, dan kecepatan gerak musuh.",
+  "homepage": " ",
+  "countryCodes": [ "id" ],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+
+}

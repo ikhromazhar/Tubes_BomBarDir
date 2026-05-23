@@ -1,0 +1,12 @@
+
+{
+  "name": "BomBarDirBOT",
+  "version": "2.0",
+  "authors": [ "Ikhrom", "Yoel", "Dimas"],
+  "description": "Deskripsi strategi greedy yang digunakan",
+  "homepage": " ",
+  "countryCodes": [ "id" ],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+
+}
